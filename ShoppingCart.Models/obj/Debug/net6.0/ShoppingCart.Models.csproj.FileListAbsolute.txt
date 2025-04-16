@@ -1,0 +1,13 @@
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.deps.json
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.csproj.AssemblyReference.cache
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.AssemblyInfoInputs.cache
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.AssemblyInfo.cs
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.csproj.CoreCompileInputs.cache
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.sourcelink.json
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\refint\ShoppingCart.Models.dll
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\Тест\Desktop\KNURE-master\ShoppingCart.Models\obj\Debug\net6.0\ref\ShoppingCart.Models.dll
